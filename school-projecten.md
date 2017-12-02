@@ -8,11 +8,11 @@ guid: http://barld.nl/?page_id=161
 ---
 ## Project 1
 
-Het eerste project zijn we rustig begonnen en waren de hoofddoelen samen werken met een team in een &#8220;agille&#8221; omgeving. De opdracht was om een papieren bord spel te maken inclusief documentatie waarin exact beschreven moest staan hoe de spel regels weken.
+Het eerste project zijn we rustig begonnen en waren de hoofddoelen samen werken met een team in een "agille" omgeving. De opdracht was om een papieren bord spel te maken inclusief documentatie waarin exact beschreven moest staan hoe de spel regels weken.
 
 ## Project 2
 
-bij het tweede project mochten we gelukkig echt aan de slag gaan met programmeren. De docenten die dit project hebben georganiseerd hebben van de projecten die in de eerste periode zijn gemaakt door leerlingen van het eerste jaar drie goede projecten uitgekozen. We mochten als groep een van deze spellen uitkiezen om hier een digitale versie van te ontwikkelen. Als groep hebben we gekozen voor een strategische spel genaamd &#8220;Frequency&#8221;. We hebben gekozen om het spel te ontwikkelen in python en pyGame. We hebben voor deze techniek gekozen omdat we hierin allemaal een basis hadden opgedaan de afgelopen twee perioden. Ik heb in dit project de rol als scrum master op me gekozen. Uiteindelijk ging dit goed maar heb ik iets te veel in de lijdende rol gezeten. De source code is hier op github te vinden: <a href="https://github.com/HRODEV/Frequency" target="_blank" rel="noopener">https://github.com/HRODEV/Frequency</a>
+bij het tweede project mochten we gelukkig echt aan de slag gaan met programmeren. De docenten die dit project hebben georganiseerd hebben van de projecten die in de eerste periode zijn gemaakt door leerlingen van het eerste jaar drie goede projecten uitgekozen. We mochten als groep een van deze spellen uitkiezen om hier een digitale versie van te ontwikkelen. Als groep hebben we gekozen voor een strategische spel genaamd "Frequency". We hebben gekozen om het spel te ontwikkelen in python en pyGame. We hebben voor deze techniek gekozen omdat we hierin allemaal een basis hadden opgedaan de afgelopen twee perioden. Ik heb in dit project de rol als scrum master op me gekozen. Uiteindelijk ging dit goed maar heb ik iets te veel in de lijdende rol gezeten. De source code is hier op github te vinden: <a href="https://github.com/HRODEV/Frequency" target="_blank" rel="noopener">https://github.com/HRODEV/Frequency</a>
 
 &nbsp;
 

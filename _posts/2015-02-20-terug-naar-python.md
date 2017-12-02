@@ -45,7 +45,7 @@ namespace p1
         static void Main(string[] args)
         {
             int sum = 0;
-            for (int i = 1; i &lt; 1000; i++)
+            for (int i = 1; i < 1000; i++)
             {
                 if (i % 3 == 0 || i % 5 == 0)
                 {
@@ -58,6 +58,6 @@ namespace p1
 }
 ```
 
-Een van de eerste dingen die mij mij opvalt is dat python het gewoon toestaat om bij zo&#8217;n klein klein stukje het gewoon toestaat om niks te doen met OOP. OOP is een hele mooie techniek die overigens ook mogelijk is met behulp van python, maar het heeft bij zo&#8217;n klein programmaatje geen meerwaarde om er een class om heen te zetten. daarnaast valt op dat in mijn python code veel minder haakjes worden gebruikt en dat dubbele punt en inspringen vaak genoeg is. Een van de echte grootte opvallende verschillen is dat er in python geen klassieke for loop zit zoals die in veel andere talen wel zit. De for loop die in python zit is eigenlijk een soort foreach loop in veel andere talen. wanneer je een for loop wilt gebruiken dan zal je vaak genoeg hebben door de for loop te gebruiken in combinatie met de range methode maar het kan soms toch iets beperkter zijn. Om voorwaarden te checken heb ik ook nog een hele mooie mogelijkheid gevonden die ik in ieder geval voor C# niet zou weten zonder extra methodes. Je kan op een korte wijze heel makkelijk checken of een van beide waardes overeen komt met in dit geval 0.
+Een van de eerste dingen die mij mij opvalt is dat python het gewoon toestaat om bij zo'n klein klein stukje het gewoon toestaat om niks te doen met OOP. OOP is een hele mooie techniek die overigens ook mogelijk is met behulp van python, maar het heeft bij zo'n klein programmaatje geen meerwaarde om er een class om heen te zetten. daarnaast valt op dat in mijn python code veel minder haakjes worden gebruikt en dat dubbele punt en inspringen vaak genoeg is. Een van de echte grootte opvallende verschillen is dat er in python geen klassieke for loop zit zoals die in veel andere talen wel zit. De for loop die in python zit is eigenlijk een soort foreach loop in veel andere talen. wanneer je een for loop wilt gebruiken dan zal je vaak genoeg hebben door de for loop te gebruiken in combinatie met de range methode maar het kan soms toch iets beperkter zijn. Om voorwaarden te checken heb ik ook nog een hele mooie mogelijkheid gevonden die ik in ieder geval voor C# niet zou weten zonder extra methodes. Je kan op een korte wijze heel makkelijk checken of een van beide waardes overeen komt met in dit geval 0.
 
 Dit is een vergelijking aan de hand van een klein probleem. Ik zou in de toekomst graag nog eens meer iets willen doen met Python maar heb op dit moment niet zoveel ideeën om nou eens te maken in python. Als iemand iets leuks weet of een opmerking over iets anders in dit bericht heeft laat dan gerust een reactie achter.
