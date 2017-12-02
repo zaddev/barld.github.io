@@ -22,7 +22,8 @@ Er zijn verschillende bronnen die je kan gebruiken om python te leren of je kenn
 
 Ik wist niet zo goed wat ik moest maken dus heb ik een makkelijke opdracht van “Project Euler” gemaakt als Console programma gemaakt. Ik heb het ook in C# gemaakt en zal hieronder de code vergelijken.
 
-<pre class="brush: python; title: ; notranslate" title="">#Problem 1 Project Euler Python
+```python
+#Problem 1 Project Euler Python
 Som = 0
 
 for i in range(3, 1000):
@@ -30,11 +31,11 @@ for i in range(3, 1000):
         som += i
 
 print(som)
-</pre>
+```
 
 
-
-<pre class="brush: csharp; title: ; notranslate" title="">//Problem 1 Project Euler C#
+```cs
+//Problem 1 Project Euler C#
 using System;
 
 namespace p1
@@ -55,7 +56,7 @@ namespace p1
         }
     }
 }
-</pre>
+```
 
 Een van de eerste dingen die mij mij opvalt is dat python het gewoon toestaat om bij zo&#8217;n klein klein stukje het gewoon toestaat om niks te doen met OOP. OOP is een hele mooie techniek die overigens ook mogelijk is met behulp van python, maar het heeft bij zo&#8217;n klein programmaatje geen meerwaarde om er een class om heen te zetten. daarnaast valt op dat in mijn python code veel minder haakjes worden gebruikt en dat dubbele punt en inspringen vaak genoeg is. Een van de echte grootte opvallende verschillen is dat er in python geen klassieke for loop zit zoals die in veel andere talen wel zit. De for loop die in python zit is eigenlijk een soort foreach loop in veel andere talen. wanneer je een for loop wilt gebruiken dan zal je vaak genoeg hebben door de for loop te gebruiken in combinatie met de range methode maar het kan soms toch iets beperkter zijn. Om voorwaarden te checken heb ik ook nog een hele mooie mogelijkheid gevonden die ik in ieder geval voor C# niet zou weten zonder extra methodes. Je kan op een korte wijze heel makkelijk checken of een van beide waardes overeen komt met in dit geval 0.
 
