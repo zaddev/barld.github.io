@@ -11,7 +11,8 @@ videourl:
 categories:
   - Geen categorie
 ---
-<pre class="brush: csharp; title: ; notranslate" title="">using System;
+```csharp
+using System;
 
 namespace Barld.NL
 {
@@ -22,5 +23,4 @@ namespace Barld.NL
             Console.WriteLine("welkom op mijn site");
         }
     }
-}
-</pre>
+```
